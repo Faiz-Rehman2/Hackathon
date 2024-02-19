@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+    background-color: #ba9b5e;
+}
+
+.main-logo img{
+    width: 20px ;
+
+}
+.menu-bar{
+    width: 20px;
+}
+/* .login-dollar{
+    
+} */
+#signup{
+
+    border-radius: 5px;
+}
+.right-main{
+    width: 300px;
+}
